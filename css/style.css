@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5 {
 .btnenviar {
   font-family: inherit;
   font-size: 20px;
-  background: linear-gradient(to right, #ff9900, #f7b554, #ff9900);
+  background: #0ea5e9;
   color: white;
   padding: 0.7em 1em;
   padding-left: 0.9em;
@@ -936,7 +936,7 @@ header .navbar .cta-btn a:hover {
   position: relative;
   width: 0px;
   font-size: 30px;
-  color: #ff9900;
+  color: #06b6d4;
 }
 
 .load-more {
@@ -1409,3 +1409,4 @@ header .navbar .cta-btn a:hover {
     stroke-dashoffset: -136px;
   }
 }
+

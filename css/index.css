@@ -304,7 +304,7 @@ a {
     flex-direction: row;
     padding-left: 4em;
     align-items: center;
-    color: #d8d7d7;
+    color: #d8d7d7 !important;
     flex: 70%;
 
     & > img {
@@ -335,4 +335,9 @@ a {
 
 #btn-login:hover {
   background: #0369a1;
+}
+
+
+#label-haader{
+  color: #d8d7d7 !important;
 }
